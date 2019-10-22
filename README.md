@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+DESCRIPTION is description.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+this is a place holder . test 
 
 ## Getting started
 
